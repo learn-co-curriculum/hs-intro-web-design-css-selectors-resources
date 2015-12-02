@@ -9,3 +9,4 @@ Working with different types of CSS selectors and feeling frustrated and confuse
 **2.** [Site Point](http://www.sitepoint.com/web-foundations/css-selectors/)
 
 **3.** [Sauce Labs](https://saucelabs.com/selenium/css-selectors)
+<a href='https://learn.co/lessons/hs-intro-web-design-css-selectors-resources' data-visibility='hidden'>View this lesson on Learn.co</a>
